@@ -24,8 +24,11 @@
 
 **CIRCUIT DIAGRAM:**
 
+![kirchoff cd](https://github.com/user-attachments/assets/3cb1a1b1-605d-4dc2-a9a5-811c7a94b139)
 
+tabular column and calculation :
 
+![kirchiff tc](https://github.com/user-attachments/assets/1014ac8e-dac9-4a84-83ff-6b60c90b8ccc)
 
 
 
